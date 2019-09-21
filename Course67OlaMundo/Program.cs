@@ -7,6 +7,7 @@ namespace Course67OlaMundo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Seja Bem Vindo!");
             Console.ReadLine();
 
         }
